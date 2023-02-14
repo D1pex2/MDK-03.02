@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractWorkSIX", "PractWorkSIX\PractWorkSIX.csproj", "{E55B1D16-1989-4D5B-BBE2-2A10E59765BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55B1D16-1989-4D5B-BBE2-2A10E59765BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55B1D16-1989-4D5B-BBE2-2A10E59765BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55B1D16-1989-4D5B-BBE2-2A10E59765BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55B1D16-1989-4D5B-BBE2-2A10E59765BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1CD03C-2B95-41A7-84DB-6C362FFE99C5}
+	EndGlobalSection
+EndGlobal
